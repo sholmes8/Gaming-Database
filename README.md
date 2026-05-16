@@ -1,6 +1,19 @@
-# Game App
+# Gaming Database Platform
 
 A web application that allows users to discover and interact with games, follow content creators, and engage in community content. The app supports various user roles such as Admins, Regular Users, and Content Creators, each with their specific functionalities.
+
+## Overview
+Gaming Database Platform is a collaborative full-stack web application designed for game discovery, creator interaction, and community engagement. The platform supports multiple user roles including Admins, Regular Users, and Content Creators through role-based dashboards and authenticated functionality.
+
+## Project Highlights
+- Built using React, Spring Boot, Firebase Firestore, and REST APIs
+- Supports role-based authentication and dashboards
+- Includes game search, bookmarking, creator following, and admin reporting tools
+- Structured with organized frontend/backend architecture
+- Developed collaboratively using GitHub workflows
+
+## My Contributions
+As a contributor to this collaborative project, I supported application development, project organization, feature implementation, and documentation improvements. I contributed to frontend/backend integration efforts and helped support role-based functionality and user interaction features.
 
 ## Table of Contents
 
