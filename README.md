@@ -1,5 +1,7 @@
-# Gaming Database Platform
 > Academic collaborative project originally developed in a team envrionment and currently maintained as a portfolio project.
+
+# Gaming Database Platform
+
 A web application that allows users to discover and interact with games, follow content creators, and engage in community content. The app supports various user roles such as Admins, Regular Users, and Content Creators, each with their specific functionalities.
 
 ## Overview
